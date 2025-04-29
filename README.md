@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hey there:
 I'm an aspiring software engineer currently studying Cambridge AS Level Computer Science. I'm passionate about technology, AI, and building tools that help others grow. I love learning and sharing knowledge—especially in areas like:<br><br>- 🧠 Artificial Intelligence<br>- 💻 Full-Stack Web Development<br>- ⚙️ Robotics <br>- 📸 Photography <br>-  🎨 Designing<br><br>---<br><br>🚀 My Current Goals<br><br>- 🌱 Preparing for university to study Bachelor's in Computer Science.<br>- 🧩 Building a study app with HTML/CSS/JS, with vibe coding.<br>- 🧠 Learning Python.<br><br>💡 Fun Fact<br><br>- I am a student and I would love to connect with you
 
 
