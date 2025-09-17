@@ -1,5 +1,5 @@
 # 👋 Hey there! It's nice to see you!
-I'm an aspiring software engineer currently studying Cambridge A Level Computer Science. I'm passionate about technology, AI, and building tools that help others grow. I love learning and sharing knowledge—especially in areas like:<br><br>- 🧠 Artificial Intelligence<br>- 💻 Full-Stack Web Development<br>- ⚙️ Robotics <br>- 📸 Photography <br>-  🎨 Designing<br><br>---<br><br>🚀 My Current Goals<br><br>- 🌱 Preparing for university to study Bachelor's in Computer Science.<br>- 🧩 Building a study app with HTML/CSS/JS, with vibe coding.<br>- 🧠 Learning Python.<br><br>💡 Fun Fact<br><br>- I am a student and I would love to connect with you
+I'm an aspiring software engineer currently studying Cambridge A Level Computer Science. I'm passionate about technology, AI, and building tools that help others grow. I love learning and sharing knowledge—especially in areas like:<br><br>- 🧠 Artificial Intelligence<br>- 💻 Full-Stack Web Development<br>- ⚙️ Robotics <br>- 📸 Photography <br>-  🎨 Designing<br><br>---<br><br>🚀 My Current Goals<br>.<br>- 🧩 Building a study app with HTML/CSS/JS.<br>- 🧠 Learning Python.<br>
 
 
 ## 🌐 Socials:
@@ -12,10 +12,10 @@ I'm an aspiring software engineer currently studying Cambridge A Level Computer 
 ![](https://nirzak-streak-stats.vercel.app/?user=md-shourov-hasan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-shourov-hasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Favourite Quote:
+"The fastest way to learn something is to break it"
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=md-shourov-hasan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
